@@ -54,15 +54,6 @@ This logic is gracefully handled within the front-end application to ensure a se
 
 ## Project Structure
 
-- `personal-profile-blogUI @ b295557/`: Contains the React SPA code.
-- `springboot-profile-blog-service @ 1e8d211/`: Spring Boot microservice for profile management.
-- `springboot-profile-search-service @ abc4d58/`: Spring Boot microservice for profile searching.
-
-## Getting Started
-
-1. Clone the repository.
-2. Set up the front end and back end projects individually.
-3. Configure Google OAuth for authentication.
-4. Deploy the applications to AWS EC2 instances.
-
-Detailed instructions for setting up and deploying each component can be found in their respective directories.
+- [`personal-profile-blogUI`](./personal-profile-blogUI%20@%20b295557/): Contains the React SPA code.
+- [`springboot-profile-blog-service`](./springboot-profile-blog-service%20@%201e8d211/): Spring Boot microservice for profile management.
+- [`springboot-profile-search-service`](./springboot-profile-search-service%20@%20abc4d58/): Spring Boot microservice for profile searching.
