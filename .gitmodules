@@ -1,0 +1,9 @@
+[submodule "personal-profile-blogUI"]
+	path = personal-profile-blogUI
+	url = git@github.com:NagamaniNarava/personal-profile-blogUI.git
+[submodule "springboot-profile-blog-service"]
+	path = springboot-profile-blog-service
+	url = git@github.com:NagamaniNarava/springboot-profile-blog-service.git
+[submodule "springboot-profile-search-service"]
+	path = springboot-profile-search-service
+	url = git@github.com:NagamaniNarava/springboot-profile-search-service.git
