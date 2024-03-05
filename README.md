@@ -54,6 +54,6 @@ This logic is gracefully handled within the front-end application to ensure a se
 
 ## Project Structure
 
-- [`personal-profile-blogUI`](./personal-profile-blogUI%20@%20b295557/): Contains the React SPA code.
-- [`springboot-profile-blog-service`](./springboot-profile-blog-service%20@%201e8d211/): Spring Boot microservice for profile management.
-- [`springboot-profile-search-service`](./springboot-profile-search-service%20@%20abc4d58/): Spring Boot microservice for profile searching.
+- [`personal-profile-blogUI`](./personal-profile-blogUI): Contains the React SPA code.
+- [`springboot-profile-blog-service`](./springboot-profile-blog-service/): Spring Boot microservice for profile management.
+- [`springboot-profile-search-service`](./springboot-profile-search-service/): Spring Boot microservice for profile searching.
